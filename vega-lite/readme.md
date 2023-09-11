@@ -10,4 +10,3 @@ Para mas información sobre Vega-Lite, leer lo siguiente:
 Ejemplos desarrollados en clase:
 1. https://aaizemberg.github.io/2023/vega-lite/poblacion24.html
 2. https://aaizemberg.github.io/2023/vega-lite/poblacion.html
-3. 

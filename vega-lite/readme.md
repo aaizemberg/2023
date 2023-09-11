@@ -8,4 +8,6 @@ Para mas información sobre Vega-Lite, leer lo siguiente:
 3. [Galería de ejemplos](https://vega.github.io/vega-lite/examples/)
 
 Ejemplos desarrollados en clase:
-1. https://aaizemberg.github.io/2023/vega-lite/poblacion.html
+1. https://aaizemberg.github.io/2023/vega-lite/poblacion24.html
+2. https://aaizemberg.github.io/2023/vega-lite/poblacion.html
+3. 

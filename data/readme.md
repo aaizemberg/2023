@@ -1,3 +1,3 @@
 Olympians
 
-[Un scatterplot interactivo hosteado en mi profile de Tableau Public](https://aaizemberg.github.io/2023/data/tableau.html)
+[Scatterplot interactivo hecho con Tableau Desktop y almacenado en Tableau Public](https://aaizemberg.github.io/2023/data/tableau.html)

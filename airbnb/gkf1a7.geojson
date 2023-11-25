@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -72,
+            -20
+          ],
+          [
+            -72,
+            -90
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -69,
+            -20
+          ],
+          [
+            -69,
+            -90
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -66,
+            -20
+          ],
+          [
+            -66,
+            -90
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -63,
+            -20
+          ],
+          [
+            -63,
+            -90
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -60,
+            -20
+          ],
+          [
+            -60,
+            -90
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -57,
+            -20
+          ],
+          [
+            -57,
+            -90
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -54,
+            -20
+          ],
+          [
+            -54,
+            -90
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}

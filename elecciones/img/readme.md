@@ -1,0 +1,1 @@
+fotos de los candidatos
